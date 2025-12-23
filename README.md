@@ -77,6 +77,9 @@ Backend validation errors are automatically parsed and displayed:
 
 ## Screenshots
 
+### Login
+![Login](docs/login.png)
+
 ### Dashboard
 ![Dashboard](docs/dashboard.png)
 
